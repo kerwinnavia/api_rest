@@ -1,0 +1,9 @@
+{
+    "conexion": {
+        "server": "localhost",
+        "user": "3640820_restornwc",
+        "password": "keromy301",
+        "database": "3640820_restornwc",
+        "port":"3306"
+    }
+}
